@@ -34,3 +34,8 @@
   
   margin-block: 2.5rem;
 }
+
+.guess {
+  display: flex;
+  gap: 0.75rem;
+}

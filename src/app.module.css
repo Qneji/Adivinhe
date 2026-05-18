@@ -13,6 +13,15 @@
     padding: 2rem;
     padding-block: 4.5rem;
     border-radius: 0.75rem;
+
+    & > h4 {
+      color: #32325F;
+
+      font-size: 1.12rem;
+      font-weight: 500;
+
+      margin-bottom: 0.75rem;
+    }
   }
 }
 

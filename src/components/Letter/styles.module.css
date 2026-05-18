@@ -1,0 +1,16 @@
+.letter {
+  background-color: #E1F5EC;
+  color: #6363db;
+
+  width: 3.37rem;
+  height: 3.37rem;
+  border-radius: 0.62rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}

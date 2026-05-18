@@ -17,10 +17,13 @@ export default function  App() {
 
         < Tip tip="Uma das linguagens de programação mais usadas" />
 
-        <Letter value="r" />
-        <Letter value="r" />
-        <Letter value="r" />
-        <Letter value="r" />
+        <div className={styles.word}>
+          <Letter value="r" />
+          <Letter value="r" />
+          <Letter value="r" />
+          <Letter value="r" />
+        </div>
+        
       </main>
     </div>
   )

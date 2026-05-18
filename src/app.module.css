@@ -5,4 +5,23 @@
   display: flex;
   justify-content: center;
   align-items: center;
+
+  & main {
+    width: 34.75rem;
+
+    background-color: #FFFFFF;
+    padding: 2rem;
+    padding-block: 4.5rem;
+    border-radius: 0.75rem;
+  }
+}
+
+.word {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  
+  margin-block: 2.5rem;
 }

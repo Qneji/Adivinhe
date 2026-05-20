@@ -28,6 +28,7 @@ export default function App() {
 
     setScore(0)
     setLetter("")
+    setLettersUsed([])
   }
 
   function handleConfirm(){
